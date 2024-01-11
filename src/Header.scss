@@ -13,9 +13,11 @@
   height: 100vh;
   width: 100vw;
   display: flex;
-  grid-template-columns: repeat();
+  align-items: center;
+  justify-content: center;
   background-color: black;
-  color: green;
+  color: hsl(120, 100%, 45%);
+  overflow: hidden;
 }
 
 .row {
