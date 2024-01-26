@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c3098e7.css",
+    "main.js": "/static/js/main.62616d6f.js",
+    "static/media/hackfont.otf": "/static/media/hackfont.cb1ae3a5f36e7ec11189.otf",
+    "index.html": "/index.html",
+    "main.3c3098e7.css.map": "/static/css/main.3c3098e7.css.map",
+    "main.62616d6f.js.map": "/static/js/main.62616d6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c3098e7.css",
+    "static/js/main.62616d6f.js"
+  ]
+}
